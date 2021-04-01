@@ -5,7 +5,7 @@ package br.com.projetobuscacep.model;
  *
  */
 public class Endereco {
-	
+
 	private String cep;
 	private String logradouro;
 	private String complemento;

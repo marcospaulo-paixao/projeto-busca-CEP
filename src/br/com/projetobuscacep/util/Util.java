@@ -8,7 +8,7 @@ import java.io.BufferedReader;
  *
  */
 public class Util {
-	
+
 	/**
 	 * @param buffereReader
 	 * @return
